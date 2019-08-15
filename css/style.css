@@ -1,0 +1,101 @@
+header {
+	background-color: #003000;
+	padding: 10px;
+}
+
+.main-nav {
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+	margin-bottom: 20px; 
+	font-family: Times New Roman, serif;
+}
+
+.main-nav li {
+	display: inline-block;
+}
+
+.main-nav li a {
+	color: #00FF00;
+	text-decoration: none;
+	padding: 5px 20px;
+}
+
+.main-nav li.active a {
+	border: 2px solid #00FF00;
+}
+
+.main-nav li a:hover {
+	border: 2px solid #00FF00;
+}
+
+.logo img {
+	width: 150px;
+	height: auto;
+	float: left;
+	margin-top: 5px;
+}
+
+.heading {
+	margin: 50px 0px 50px 0px;
+}
+
+footer {
+	background-color: #003000;
+	color: #fff;
+	margin: 190px 0px 20px 0px;
+	padding: 15px;
+	margin-bottom: inherit;
+}
+
+form {
+	max-width: 750px;
+	min-width: 100px;
+	margin-left: 180px;
+}
+
+.footer {
+	margin-top: 44px;
+	margin-bottom: inherit;
+}
+
+.media img {
+	width: 150px;
+	height: 130px;
+}
+
+.startUp {
+	max-width: 900px;
+	min-width: 100px;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+.mediaBody {
+	margin-left: 180px;
+}
+
+.searchInput {
+	display: inline-block;
+	width: 85%;
+}
+
+.search {
+	margin-top: 30px;
+}
+
+.fa-facebook {
+	margin: 0px 30px;
+}
+
+.fa-twitter {
+	margin: 0px 30px;
+}
+
+.fa-linkedin {
+	margin: 0px 30px;
+}
+
+.fa-instagram {
+	margin: 0px 30px;
+}
